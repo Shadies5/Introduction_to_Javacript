@@ -1,0 +1,69 @@
+.box{
+  margin: 5px auto;
+    padding: 5px;
+    text-align: center;
+}
+body{
+  font-family: 'Gamja Flower', cursive;
+  background-color: #fffff2;
+  padding: 10px;
+}
+header{
+  background-color: #e4572e;
+  text-align: center;
+  border-style: 4px solid; 
+  border-color:#050401;
+  margin-top: 0px;
+  padding-top: 30px;
+margin-bottom: 20px;
+}
+header h1{
+  font-family: 'Chelsea Market', cursive;
+}
+main{
+  background-color: #fffff2;
+  
+}
+img {
+float: right;
+vertical-align: middle;
+}
+article {
+border: 5px solid black;
+box-shadow:3px 3px #e4572e;
+width: 65%;
+margin: 10px auto;
+}
+.article-1{
+  text-align: left;
+} 
+footer{
+  text-align: center; 
+}
+form {
+  display: inline-flex;
+}
+
+form p{
+  margin: 15px;
+  border: 4px;
+  box-shadow: 3px 3px 0 0 #e4572e;
+}
+.clear-fix {
+display: table;
+}
+.addBoxnote {
+    width: 100%;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.addBtnnote {
+    width: 100%;
+    height: 30px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    border: 4px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e; 
+}
